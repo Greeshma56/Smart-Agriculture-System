@@ -45,14 +45,11 @@ The system uses a Random Forest Classifier trained on agricultural data to provi
 ```text
 Smart-Agriculture-System
 │
-├── dataset
-│   └── Crop_recommendation.csv
+├── Crop_recommendation.csv
 │
-├── model
-│   └── crop_model.pkl
+├── crop_model.pkl
 │
-├── notebooks
-│   └── day1_analysis.py
+├── day1_analysis.py
 │
 ├── app.py
 ├── train_model.py
