@@ -122,6 +122,13 @@ Recommended Crop: Rice
 
 ---
 
+OUTPUT
+<img width="1366" height="683" alt="Screenshot 2026-07-06 222706" src="https://github.com/user-attachments/assets/6d43d04f-d80e-4837-adab-fe1916359bd7" />
+<img width="1366" height="683" alt="Screenshot 2026-07-06 222839" src="https://github.com/user-attachments/assets/fc435be3-8a0d-4a59-aa21-5c3edb07bf6b" />
+<img width="1366" height="683" alt="Screenshot 2026-07-06 222859" src="https://github.com/user-attachments/assets/12b6704a-1213-4e53-aa43-f6ffbc4ad3d6" />
+
+
+
 ## 👩‍💻 Author
 
 Greeshma
