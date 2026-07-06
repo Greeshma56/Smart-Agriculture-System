@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # Load Model
-model = pickle.load(open("model/crop_model.pkl", "rb"))
+model = pickle.load(open("crop_model.pkl", "rb"))
 
 # Title
 st.title("🌱 Smart Agriculture System")
