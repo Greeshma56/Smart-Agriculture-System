@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("dataset/Crop_recommendation.csv")
+df = pd.read_csv("Crop_recommendation.csv")
 
 print("Shape:", df.shape)
 
